@@ -1,0 +1,22 @@
+2024-10-03 06:08:51,429 - INFO - Database and tables created successfully
+2024-10-03 06:08:51,462 - WARNING -  * Debugger is active!
+2024-10-03 06:08:51,477 - INFO -  * Debugger PIN: 995-478-139
+2024-10-03 06:09:04,843 - INFO - 127.0.0.1 - - [03/Oct/2024 06:09:04] "GET / HTTP/1.1" 200 -
+2024-10-03 06:09:17,397 - INFO - Starting data transfer from C:\Users\user\Documents\GitHub\Database-Migration\uploads\DB_DATA_AS_AT_18.db
+2024-10-03 06:09:17,404 - INFO - Clearing existing data from all tables
+2024-10-03 06:09:17,468 - INFO - Transferring Staff data
+2024-10-03 06:09:17,468 - INFO - Transferred 13 Staff records
+2024-10-03 06:09:17,484 - INFO - Transferring Engagement data
+2024-10-03 06:09:17,486 - INFO - Transferred 5 Engagement records
+2024-10-03 06:09:17,487 - INFO - Transferring Proposal data
+2024-10-03 06:09:17,490 - INFO - Transferred 9 Proposal records
+2024-10-03 06:09:17,490 - INFO - Transferring NonBillable data
+2024-10-03 06:09:17,492 - INFO - Transferred 3 NonBillable records
+2024-10-03 06:09:17,492 - INFO - Transferring HoursLog data
+2024-10-03 06:09:17,554 - INFO - Transferred 241 HoursLog records
+2024-10-03 06:09:17,554 - INFO - Transferring LeaveRecord data
+2024-10-03 06:09:17,557 - INFO - Transferred 15 LeaveRecord records
+2024-10-03 06:09:17,558 - INFO - Transferring Utilization data
+2024-10-03 06:09:17,559 - INFO - Transferred 1 Utilization records
+2024-10-03 06:09:17,621 - INFO - Data transfer completed successfully
+2024-10-03 06:09:17,961 - INFO - 127.0.0.1 - - [03/Oct/2024 06:09:17] "POST / HTTP/1.1" 200 -
